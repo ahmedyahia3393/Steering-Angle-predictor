@@ -1,5 +1,5 @@
 # Steering-Angle-predictor
-<img width="638" height="318" alt="gif_trained" src="https://github.com/user-attachments/assets/999dfe95-c212-4137-b07e-e3ea60284bdf" />
+<img width="638" height="318" alt="steering_angle_prediction" src="https://github.com/user-attachments/assets/811fe615-088c-47ae-a13a-b63326b5039d" />
 
 The aim of this repo is to show the Bachelor work of Mr. Ibrahim, Ahmed Yehia Zakaria, which sheds light on an End to End approach to predict the steering angle which is done on the simulation level using using CNN algorithm. The complete thesis can be found on this [open-source link](https://drive.google.com/file/d/1IxQtn7nCcMpT1Q2ilD_7g0RZ_j8ZxQUl/view?usp=drive_link).
 
@@ -37,8 +37,9 @@ sudo apt-get install python-pygame
 After training the CNN model, the steering angle prediction (Blue_reference, green_predicted) is as follows:
 
 Steering Angle Prediction
+<img width="638" height="318" alt="gif_trained" src="https://github.com/user-attachments/assets/999dfe95-c212-4137-b07e-e3ea60284bdf" />
 
-<img width="638" height="318" alt="steering_angle_prediction" src="https://github.com/user-attachments/assets/811fe615-088c-47ae-a13a-b63326b5039d" />
+
 
 
 
