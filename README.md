@@ -36,7 +36,8 @@ After training the CNN model, the steering angle prediction (Blue_reference, gre
 
 Steering Angle Prediction
 
-https://github.com/user-attachments/assets/ceef6edd-97c5-449a-ae53-4d87695ed7ca
+<img width="638" height="318" alt="steering_angle_prediction" src="https://github.com/user-attachments/assets/811fe615-088c-47ae-a13a-b63326b5039d" />
+
 
 
 
@@ -44,7 +45,8 @@ Steering Angle Prediction 2
 
 
 
-https://github.com/user-attachments/assets/533aa076-9a05-4a0d-813f-026dcbbd0eb0
+<img width="638" height="318" alt="gif_trained" src="https://github.com/user-attachments/assets/999dfe95-c212-4137-b07e-e3ea60284bdf" />
+
 
 
 
