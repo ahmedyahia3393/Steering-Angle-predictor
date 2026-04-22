@@ -15,13 +15,13 @@ sudo apt-get install python-pygame
 ```
 # Results
 After training the CNN, the steering angle prediction (Blue_reference, green_predicted) is as follows:
-Steering Angle Prediction(
+Steering Angle Prediction
 
 https://github.com/user-attachments/assets/ceef6edd-97c5-449a-ae53-4d87695ed7ca
 
-)
 
-Steering Angle Prediction 2 (
+
+Steering Angle Prediction 2 
 
 
 
@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/533aa076-9a05-4a0d-813f-026dcbbd0eb0
 
 
 
-)
+
 
 
 
