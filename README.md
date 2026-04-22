@@ -6,12 +6,24 @@ The End to End learning depends on applying ML regression supervised learning ap
 # Installation of important frameworks, dependencies, and environemnts
 ```Bibtex
 pip install --upgrade keras
+pip show tensorflow
 curl -O https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Linux-x86_64.sh
 wget -O opencv.zip https://github.com/opencv/opencv/archive/4.x.zip
 unzip opencv.zip
 sudo apt-get install python-pygame
 
 ```
+# Results
+After training the CNN, the steering angle prediction (Blue_reference, green_predicted) is as follows:
+
+
+https://github.com/user-attachments/assets/59d81a86-7038-4425-b340-f290bf56cdac
+With more street deviations:
+ 
+
+https://github.com/user-attachments/assets/584d0d97-65f9-4f81-98cd-81254b2ed669
+
+
 
 # Future Recommendations 
 1. Training has to be done using a powerful GPU.At least, an Nvidia GTX 780 is needed to comply with the tensorflow requirements for Library CUDA Compute Capability=3.5.
