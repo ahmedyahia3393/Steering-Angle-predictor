@@ -21,7 +21,11 @@ https://github.com/user-attachments/assets/ceef6edd-97c5-449a-ae53-4d87695ed7ca
 
 )
 
-[Steering Angle Prediction 2]()
+[Steering Angle Prediction 2](
+
+Uploading steering_angle_prediction.mp4…
+
+)
 
 
 
